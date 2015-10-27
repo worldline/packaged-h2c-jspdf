@@ -1,0 +1,11 @@
+{
+  "name": "packaged-h2c-jspdf",
+  "version": "0.0.1",
+  "description": "This file initialized the repository",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/worldline/packaged-h2c-jspdf"
+  },
+  "author": "Worldline",
+  "license": " "
+}
