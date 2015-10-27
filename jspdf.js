@@ -6168,7 +6168,7 @@ void function(global, callback) {
 		};
 	}
 
-	return exports;
+	return jsPDF;
 });
 /*
  Deflate.js - https://github.com/gildas-lormeau/zip.js
